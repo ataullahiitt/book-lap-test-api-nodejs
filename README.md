@@ -14,4 +14,7 @@
 
 5. Finally start server ->  Run  "nodejs server.js" OR "nodemon server.js"
 
+6. PORT = 3000
+
+7. Project URL http://localhost:3000
 
